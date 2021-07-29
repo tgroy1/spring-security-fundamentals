@@ -9,5 +9,6 @@
 	
 	<modules>
 		<module>spring-security</module>
+		<module>spring-security-jdbc</module>
 	</modules>
 </project>
