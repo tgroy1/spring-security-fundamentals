@@ -6,3 +6,6 @@
 
 **spring-security-jdbc**
   1. JDBC authentication with H2 database
+  
+**spring-security-jpa**
+  1. JPA authentication with MySQL database
