@@ -11,5 +11,6 @@
 		<module>spring-security</module>
 		<module>spring-security-jdbc</module>
 		<module>spring-security-jpa</module>
+		<module>spring-security-ldap</module>
 	</modules>
 </project>
