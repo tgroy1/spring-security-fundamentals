@@ -13,5 +13,6 @@
 		<module>spring-security-jpa</module>
 		<module>spring-security-ldap</module>
 		<module>spring-security-jwt</module>
+		<module>spring-security-facebook</module>
 	</modules>
 </project>

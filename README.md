@@ -17,3 +17,6 @@
   1. JWT authorization implementation
   2. JWT validation filter
   
+**spring-security-facebook**
+  1. OAuth authentication using Facebook
+  
