@@ -13,3 +13,7 @@
 **spring-security-ldap**
   1. LDAP authentication implementation
   
+**spring-security-jwt**
+  1. JWT authorization implementation
+  2. JWT validation filter
+  
