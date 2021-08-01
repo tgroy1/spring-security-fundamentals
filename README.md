@@ -16,6 +16,7 @@
 **spring-security-jwt**
   1. JWT authorization implementation
   2. JWT validation filter
+  3. Authenticate (endpoint = 'authenticate') through Postman or any Rest client to get the JWT using which access the 'welcome' endpoint
   
 **spring-security-facebook**
   1. OAuth authentication using Facebook

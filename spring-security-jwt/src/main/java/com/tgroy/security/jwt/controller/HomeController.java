@@ -28,7 +28,7 @@ public class HomeController {
 	@Autowired
 	private JwtUtil jwtUtil;
 
-	@GetMapping("/")
+	@GetMapping("/welcome")
 	public String home() {
 		return "<h1>Welcome</h1>";
 	}
